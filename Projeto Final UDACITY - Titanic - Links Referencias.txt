@@ -1,0 +1,5 @@
+
+--- Referencias ---
+https://paulovasconcellos.com.br/o-que-o-naufr%C3%A1gio-do-titanic-nos-ensina-at%C3%A9-hoje-data-science-project-2fea8ff1c9b5
+https://github.com/paulozip/naufragio-titanic
+https://www.youtube.com/watch?v=LKESQMPe7nI
