@@ -21,21 +21,17 @@ O objetivo deste projeto será responder aos seguintes questionamentos sobre os 
 7 - Há correlação direta entre o valor pago na passagem e idade?
 8 - Quem são os passageiros que não tiveram a tarifa cobrada? Eles sobreviveram?
 
+
 Tendo como resultado de aprendizado:
 
 Visão ampla dos passos envolvidos em um processo de análise de dados típico;
-
 Realização de questionamentos que podem ser respondidos por um conjunto de dados;
-
 Capacidade de investigar problemas em um conjunto de dados e confrontrar os dados em um formato que se possa usar;
-
 Adquirir prática em comunicar os resultados de sua análise;
-
 Ser capaz de utilizar as operações vetorizadas no NumPy e Pandas para acelerar código de análise de dados;
-
 Possuir familiaridade com objetos, séries e o banco de dados Pandas, para acesso aos dados de forma mais conveniente;
-
 Saber utilizar a biblioteca Matplotlib para produzir gráficos simples e objetivos.
+
 Obtendo o conjunto de dados
 
 Dados do Titanic - contém dados demográficos e informações de 891 dos 2.224 passageiros e tripulantes a bordo do Titanic. Você pode ver uma descrição deste conjunto de dados no site do Kaggle, de onde os dados foram tirados.
