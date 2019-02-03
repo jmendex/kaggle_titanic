@@ -1,12 +1,15 @@
 # kaggle_titanic - Projeto Titanic: Investigando uma base de dados kaggle
 
 Visão Geral do Projeto
+
 Neste projeto, será analisado um conjunto de dados de passageiros do naufrágio do RMS Titanic e, em seguida, serão comunicadas conclusões sobre as análises realizadas. As bibliotecas utilizadas serão: NumPy, Pandas e Matplotlib.
 
 Resumo Histórico
+
 O naufrágio do RMS Titanic é um dos mais notórios naufrágios da história. Em 15 de abril de 1912, durante sua viagem inaugural, o Titanic afundou depois de colidir com um iceberg, matando 1502 de 2224 passageiros e tripulantes. Esta tragédia sensacional chocou a comunidade internacional e levou a melhores normas de segurança para os navios.
 
 Objetivo
+
 O objetivo deste projeto será responder aos seguintes questionamentos sobre os dados:
 
 1 - Quais foram os fatores que fizeram com que algumas pessoas mais propensas a sobreviver?
