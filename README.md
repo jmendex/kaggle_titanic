@@ -1,4 +1,5 @@
-# kaggle_titanic - Projeto Titanic: Investigando uma base de dados kaggle
+# kaggle_titanic
+## Projeto de estudo Titanic: Investigando uma base de dados kaggle
 
 Visão Geral do Projeto
 
